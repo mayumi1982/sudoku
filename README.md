@@ -1,5 +1,5 @@
 # Sudoku: Resolução Computacional 
-O Sudoku é um quebra-cabeça numérico amplamente conhecido que demanda o preenchimento de espaços em branco em uma grade 9x9 com dígitos de 1 a 9, garantindo que cada coluna, linha e subgrade de 3x3 contenha todos os números de forma única. Diversas abordagens, incluindo técnicas computacionais, foram utilizadas para resolver esse desafio. Neste projeto, serão realizadas as seguintes tarefas:
+O Sudoku é um quebra-cabeça numérico amplamente conhecido que demanda o preenchimento de espaços em branco em uma grade 9x9 com dígitos de 1 a 9, garantindo que cada coluna, linha e subgrade de 9x9 contenha todos os números de forma única. Diversas abordagens, incluindo técnicas computacionais, foram utilizadas para resolver esse desafio. Neste projeto, serão realizadas as seguintes tarefas:
 
 **Função SolveSudoku()**: Recebe um grid como argumento e retorna verdadeiro se houver uma solução possível, e falso caso contrário. Quando retorna falso, o programa exibirá "Nenhuma solução existe".
 **Função printGrid()**: Recebe um grid como argumento e imprime os 81 números do Sudoku resolvido em uma única linha, separados por espaços, sem adicionar um caractere de nova linha após a impressão do grid.
