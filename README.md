@@ -28,6 +28,11 @@ _Empregando o método backtracking_
 
 _Para formatar a saída adequadamente_
 
+#### Função print:
+
+<img width="261" alt="image" src="https://github.com/mayumi1982/sudoku/assets/70608757/7e4eaeb9-0536-4b00-8979-3b3820e4b42a">
+
+
 # Resultado
 
 #### Com solução:
